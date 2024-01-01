@@ -1,5 +1,3 @@
-ys of Python Recap
-
 Welcome to my 60 Days of Python Recap repository! 🚀
 
 ## Introduction
